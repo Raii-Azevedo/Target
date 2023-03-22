@@ -1,6 +1,6 @@
 # Job Rotation - São Paulo
 
-## [Manifesto Ágil - REDAÇÃO]()
+## [Manifesto Ágil - REDAÇÃO](https://github.com/Raii-Azevedo/Target/blob/master/REDA%C3%87%C3%83O.md)
 
 ## 1) Observe o trecho de código abaixo:
 
