@@ -9,6 +9,7 @@ IMPORTANTE: Esse número pode ser informado através de qualquer entrada de sua 
 - RESPOSTA: [EXERCÍCIO 2](https://github.com/Raii-Azevedo/Target/blob/master/Ex2.py)
 
 
+
 3) Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
 • O menor valor de faturamento ocorrido em um dia do mês;
 • O maior valor de faturamento ocorrido em um dia do mês;
@@ -19,6 +20,8 @@ a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
 - RESPOSTA: 
+
+
 
 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 
@@ -31,6 +34,8 @@ Outros – R$19.849,53
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora.
 
 - RESPOSTA: [EXERCÍCIO 4](https://github.com/Raii-Azevedo/Target/blob/master/Ex4.py)
+
+
 
 5) Escreva um programa que inverta os caracteres de um string.
 
